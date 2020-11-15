@@ -21,7 +21,7 @@ You can run your application in dev mode that enables live coding using:
 
 Using a browser or a REST client tool test the application using the following URLs:
 
-[http://localhost:80809/country](http://localhost:80809/country)
+[http://localhost:8080/country](http://localhost:80809/country)
 
 or
 
