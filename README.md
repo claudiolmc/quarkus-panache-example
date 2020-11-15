@@ -19,7 +19,7 @@ You can run your application in dev mode that enables live coding using:
 ./mvnw compile quarkus:dev
 ```
 
-Using a browser ou a REST client tool test the application using the following URLs:
+Using a browser or a REST client tool test the application using the following URLs:
 
 [http://localhost:80809/country](http://localhost:80809/country)
 
